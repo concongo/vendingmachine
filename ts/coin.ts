@@ -7,7 +7,7 @@ class Quarter {
         this.value = newValue;
     }
     getImageUrl () {
-        return "img/Quater.png"
+        return "img/coin.jpeg"
     }
 }
 
